@@ -1,29 +1,19 @@
-# João Alencar
+# 💫 About Me:
 
-<strong>Bem vindo 😊</strong> </br>
-Sou estudante de Análise e desenvolvimento de sistemas e posso dizer que curto programar,
-fiz alguns cursos como ignite da rocketseat, e outros da alura, atualmente me considero um
-desenvolvedor full-stack e busco uma oportunidade de um possivel emprego.
+I am currently looking for an opportunity to work as a developer,
+I have back-end and front-end skills with php and js frameworks.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-alencar-6b5b44220) 
+<a href='mailto:joao.alencar099@gmail.com'><img src='https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white'></a>
+
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=eoBraad&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=eoBraad&theme=material-palenight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eoBraad&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-### Conhecimentos
-- BackEnd </br>
-  Em backend consigo desenvolver aplicações em PHP(Laravel) e Javascript(Express/NestJs).
-
-- FrontEnd </br>
-  Tenho conhecimentos em pré-precessadores como Sass, SPA, SSG, SSR usando NextJs.
-  </br>
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EoBraad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EoBraad&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-### Redes Sociais
-
-caso tenha gostado do que viu aqui e queira entrar em contato não hesite! </br></br>
-<a target='_blank' href="https://www.linkedin.com/in/jo%C3%A3o-alencar-6b5b44220/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href = "mailto:joao.alencar099@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
+[![](https://visitcount.itsvg.in/api?id=eoBraad&icon=2&color=6)](https://visitcount.itsvg.in)
