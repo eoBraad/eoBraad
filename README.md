@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello 👋! My name is João, I'm 21 years old and I'm passionate about technology. I love staying up to date with the latest news and trends in the sector and I have a natural curiosity to find out how things work.
+Hello 👋! My name is João, I'm 22 years old and I'm passionate about technology. I love staying up to date with the latest news and trends in the sector and I have a natural curiosity to find out how things work.
 
 I am a questioner by nature and I believe that the best ideas come from questioning the status quo. Furthermore, I like working in a team and I believe that sharing ideas is essential to the success of any project.
 
